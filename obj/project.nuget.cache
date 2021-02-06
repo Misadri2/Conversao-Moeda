@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x7UytNZkJS4rHurvH0ZHx00zrBjl5CqhMiBBssBGdTQHPRkeZIhS2b2YkJUiinE5mrTIim6VxMQd3uG5izUc2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Projetos\\TesteC#\\ConversaoMoeda\\ConversaoMoeda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

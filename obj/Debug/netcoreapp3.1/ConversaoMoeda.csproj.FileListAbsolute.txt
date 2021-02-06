@@ -1,0 +1,13 @@
+C:\Users\user\Projetos\TesteC#\ConversaoMoeda\bin\Debug\netcoreapp3.1\ConversaoMoeda.exe
+C:\Users\user\Projetos\TesteC#\ConversaoMoeda\bin\Debug\netcoreapp3.1\ConversaoMoeda.deps.json
+C:\Users\user\Projetos\TesteC#\ConversaoMoeda\bin\Debug\netcoreapp3.1\ConversaoMoeda.runtimeconfig.json
+C:\Users\user\Projetos\TesteC#\ConversaoMoeda\bin\Debug\netcoreapp3.1\ConversaoMoeda.runtimeconfig.dev.json
+C:\Users\user\Projetos\TesteC#\ConversaoMoeda\bin\Debug\netcoreapp3.1\ConversaoMoeda.dll
+C:\Users\user\Projetos\TesteC#\ConversaoMoeda\bin\Debug\netcoreapp3.1\ConversaoMoeda.pdb
+C:\Users\user\Projetos\TesteC#\ConversaoMoeda\obj\Debug\netcoreapp3.1\ConversaoMoeda.csprojAssemblyReference.cache
+C:\Users\user\Projetos\TesteC#\ConversaoMoeda\obj\Debug\netcoreapp3.1\ConversaoMoeda.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\TesteC#\ConversaoMoeda\obj\Debug\netcoreapp3.1\ConversaoMoeda.AssemblyInfo.cs
+C:\Users\user\Projetos\TesteC#\ConversaoMoeda\obj\Debug\netcoreapp3.1\ConversaoMoeda.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\TesteC#\ConversaoMoeda\obj\Debug\netcoreapp3.1\ConversaoMoeda.dll
+C:\Users\user\Projetos\TesteC#\ConversaoMoeda\obj\Debug\netcoreapp3.1\ConversaoMoeda.pdb
+C:\Users\user\Projetos\TesteC#\ConversaoMoeda\obj\Debug\netcoreapp3.1\ConversaoMoeda.genruntimeconfig.cache
